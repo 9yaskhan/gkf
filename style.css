@@ -5,7 +5,7 @@
   font-size: 15px;
   line-height: 24px;
   color: #737373;
-  overflow: hidden; /* Prevent horizontal scrollbar */
+  overflow-y: hidden; /* Prevent horizontal scrollbar */
 }
 
 .site-footer .container {
